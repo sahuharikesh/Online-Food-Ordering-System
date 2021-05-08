@@ -1,0 +1,24 @@
+Project Setup Step:
+
+1) Install Wampserver and click on wampserver icon and activate it.
+
+2) paste 'http://localhost/phpmyadmin/' in new tab then enter user 'root' and passward blank 
+
+3) Go To -->wamp64 foler click on it ---> next go www folder and open it ---> past your project folder inside www folder
+
+4) create database in phpmyadmin named as 'ofos' and import 'ofos.sql' file from project
+
+
+5) now  past  this url 'http://localhost/OFOS/index.php' in tab for user view
+
+
+6) for Admin Login use past  this url in new tab 'http://localhost/OFOS/Admin/login.php'
+  
+admin Email :- admin@gmail.com
+password :- admin
+
+5)for Paytm testing:
+mobile no:-7777777777 (10 times 7)
+OTP: - 489871
+
+
